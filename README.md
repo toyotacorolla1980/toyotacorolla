@@ -2,7 +2,7 @@
 
 Meu nome é ToyotaCorolla1980
 
-- Estou estudando na a a [Alura](https://www.alura.com.br)
+- Estou estudando na a [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
